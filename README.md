@@ -122,7 +122,7 @@ Using **MySQL**, queries were run to:
 
 ├── Indian Airlines.csv # Original dataset
 
-├── Indian_Airlines_Cleaned.csv #cleaned dataset
+├── Indian_Airlines_Cleaned.csv.gz #cleaned dataset in zip file due to large size
 
 ├── SQL analysis.ipynb # SQL analysis queries
 
